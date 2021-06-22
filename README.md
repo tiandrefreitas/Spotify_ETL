@@ -29,6 +29,4 @@ Há algumas validações básicas, uma que indica se o DataFrame está vazio, ou
 ## Airflow
 Construi apenas uma DAG simples para entender como funciona o Airflow, ela rodaria a cada dia de forma automática, executando o código de ETL.
 
-## Sobre Mim
-Recém-formado em Ciências da Computação, e apaixonado por Inteligência Artificial e dados, busco oportunidade para adquirir experiência com Data Science, Machine Learning, Data Engineer e Big Data.
-* [LinkedIn](https://www.linkedin.com/in/leonardo-vilani-selan/)
+* [LinkedIn](https://www.linkedin.com/in/ti-andrefreitas/)
